@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DA43-E489
+
+ Directory of C:\Users\Spoorthi\Desktop\reshma
+
+03/09/2019  05:03 PM    <DIR>          .
+03/09/2019  05:03 PM    <DIR>          ..
+03/09/2019  05:03 PM                 0 hello.txt
+03/09/2019  05:01 PM               408 index.html
+03/09/2019  05:01 PM               456 new.txt
+03/09/2019  04:35 PM                 2 reshma.txt
+               4 File(s)            866 bytes
+               2 Dir(s)  38,549,102,592 bytes free
